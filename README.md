@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **dalmasmathias@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/dalmasm](www.linkedin.com/in/dalmasm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
