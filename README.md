@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Mathias Dalmás</h1>
 <h3 align="center">I'm Chemical Engineer with wide experience on industry and now I'm Data Scientist too</h3>
 
-- 🔭 I’m currently working on **Mondelez Internation**
+- 🔭 I’m currently working on **Mondelez International**
 
 - 🌱 I’m currently learning **Python, SQL**
 
