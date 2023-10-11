@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI projects**
 
-- 💬 Ask me about **Webscrapping, pandas, numpy**
+- 💬 Ask me about **Webscrapping, Pandas, Numpy, Machine Learning, Folium, Dash, Matplotlib**
 
 - 📫 How to reach me **dalmasmathias@gmail.com**
 
